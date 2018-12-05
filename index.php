@@ -1,5 +1,5 @@
-<? php
+<?php
 
-echo "olá mundo!";
-
+echo "olá mundo! 123 ";
+echo "ola wallace";
 ?>
